@@ -10,8 +10,7 @@ public class TestMain {
 
 			server.start();
 
-			//Browser.open("http://www.aoyama.ac.jp/");
-			Browser.open("http://www.agulin.aoyama.ac.jp/");
+			Browser.open("http://www.yahoo.co.jp");
 
 			server.waitServer();
 		} catch (Exception e) {
